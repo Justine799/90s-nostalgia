@@ -47,7 +47,7 @@ nav ul {
 }
 
 nav a {
-    display: inline-block; 
+    display: block; 
     padding: .5em .75em;
     border-radius: 8px;
 }
@@ -129,7 +129,7 @@ footer {
 
 footer p {
     text-align: center;
-    padding: 10px 0;
+    padding: 8px 0;
 }
 
   
