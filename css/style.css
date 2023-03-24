@@ -3,7 +3,6 @@ html {
     box-sizing: border-box;
 }
 
-
 body {
     font-family: Roboto, serif;
     color: #222;
@@ -47,7 +46,7 @@ nav ul {
 }
 
 nav a {
-    display: block; 
+    display: inline-block; 
     padding: .5em .75em;
     border-radius: 8px;
 }
